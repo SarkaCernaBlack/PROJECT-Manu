@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "jmeno": "Nero",
+        "plemeno": "Dobrman",
+        "pohlavi": "pejsek",
+        "vek": "4 roky",
+        "vaha": "45 kg",
+        "povaha": "Ostražitý, nebojácný, hlídač",
+        "pro": "Zkušené, aktivní a fyzicky zdatné majitele, pelíšek doma",
+        "pribeh": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae itaque officiis earum corrupti molestias, voluptatibus labore voluptatem veritatis! Modi illo sapiente neque eveniet tempora, eaque maxime eligendi nesciunt ullam nam sed, placeat esse reprehenderit earum explicabo quo cum voluptatibus commodi saepe nulla? Unde asperiores, optio magnam ullam veniam qui aspernatur. Quasi facere aliquid similique blanditiis corporis amet eos quam eum?",
+        "foto": "Nero.jpg"
+    },
+    {
+        "id": 2,
+        "jmeno": "Nori",
+        "plemeno": "Sibiřský husky",
+        "pohlavi": "pejsek",
+        "vek": "3 roky",
+        "vaha": "35 kg",
+        "povaha": "Přátelský, neagresivní, temperamentní",
+        "pro": "Zkušené, aktivní a fyzicky zdatné majitele, pelíšek venku",
+        "pribeh": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae itaque officiis earum corrupti molestias, voluptatibus labore voluptatem veritatis! Modi illo sapiente neque eveniet tempora, eaque maxime eligendi nesciunt ullam nam sed, placeat esse reprehenderit earum explicabo quo cum voluptatibus commodi saepe nulla? Unde asperiores, optio magnam ullam veniam qui aspernatur. Quasi facere aliquid similique blanditiis corporis amet eos quam eum?",
+        "foto": "Nori.jpg"
+    },
+    {
+        "id": 3,
+        "jmeno": "Haki",
+        "plemeno": "Sibiřský husky",
+        "pohlavi": "pejsek",
+        "vek": "6 měsíců",
+        "vaha": "10 kg",
+        "povaha": "Přátelský, hravý, temperamentní",
+        "pro": "Zkušené, aktivní a fyzicky zdatné majitele, pelíšek venku",
+        "pribeh": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae itaque officiis earum corrupti molestias, voluptatibus labore voluptatem veritatis! Modi illo sapiente neque eveniet tempora, eaque maxime eligendi nesciunt ullam nam sed, placeat esse reprehenderit earum explicabo quo cum voluptatibus commodi saepe nulla? Unde asperiores, optio magnam ullam veniam qui aspernatur. Quasi facere aliquid similique blanditiis corporis amet eos quam eum?",
+        "foto": "Haki.jpg"
+    },
+    {
+        "id": 4,
+        "jmeno": "Brit",
+        "plemeno": "Německý ovčák",
+        "pohlavi": "pejsek",
+        "vek": "7 měsíců",
+        "vaha": "10 kg",
+        "povaha": "Hravý, nebojácný, vyrovnaný",
+        "pro": "Aktivní a fyzicky zdatné majitele, pelíšek doma i venku",
+        "pribeh": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae itaque officiis earum corrupti molestias, voluptatibus labore voluptatem veritatis! Modi illo sapiente neque eveniet tempora, eaque maxime eligendi nesciunt ullam nam sed, placeat esse reprehenderit earum explicabo quo cum voluptatibus commodi saepe nulla? Unde asperiores, optio magnam ullam veniam qui aspernatur. Quasi facere aliquid similique blanditiis corporis amet eos quam eum?",
+        "foto": "Brit.jpg"
+    },
+    {
+        "id": 5,
+        "jmeno": "Sia",
+        "plemeno": "Americká akita",
+        "pohlavi": "fenka",
+        "vek": "5 let",
+        "vaha": "65 kg",
+        "povaha": "Ostražitá, vnímavá, učenlivá",
+        "pro": "Zkušené, aktivní a fyzicky zdatné majitele, pelíšek venku",
+        "pribeh": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae itaque officiis earum corrupti molestias, voluptatibus labore voluptatem veritatis! Modi illo sapiente neque eveniet tempora, eaque maxime eligendi nesciunt ullam nam sed, placeat esse reprehenderit earum explicabo quo cum voluptatibus commodi saepe nulla? Unde asperiores, optio magnam ullam veniam qui aspernatur. Quasi facere aliquid similique blanditiis corporis amet eos quam eum?",
+        "foto": "Sia.jpg"
+    },
+    {
+        "id": 6,
+        "jmeno": "Asta",
+        "plemeno": "Aljašský malamut",
+        "pohlavi": "fenka",
+        "vek": "3 roky",
+        "vaha": "40 kg",
+        "povaha": "Přátelská, hravá, oddaná",
+        "pro": "Zkušené, aktivní a fyzicky zdatné majitele, pelíšek venku",
+        "pribeh": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae itaque officiis earum corrupti molestias, voluptatibus labore voluptatem veritatis! Modi illo sapiente neque eveniet tempora, eaque maxime eligendi nesciunt ullam nam sed, placeat esse reprehenderit earum explicabo quo cum voluptatibus commodi saepe nulla? Unde asperiores, optio magnam ullam veniam qui aspernatur. Quasi facere aliquid similique blanditiis corporis amet eos quam eum?",
+        "foto": "Asta.jpg"
+    },
+    {
+        "id": 7,
+        "jmeno": "Arwen",
+        "plemeno": "Československý vlčák",
+        "pohlavi": "fenka",
+        "vek": "2 roky",
+        "vaha": "35 kg",
+        "povaha": "Temperamentní, aktivní, vytrvalá",
+        "pro": "Zkušené, aktivní a fyzicky zdatné majitele, pelíšek venku",
+        "pribeh": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae itaque officiis earum corrupti molestias, voluptatibus labore voluptatem veritatis! Modi illo sapiente neque eveniet tempora, eaque maxime eligendi nesciunt ullam nam sed, placeat esse reprehenderit earum explicabo quo cum voluptatibus commodi saepe nulla? Unde asperiores, optio magnam ullam veniam qui aspernatur. Quasi facere aliquid similique blanditiis corporis amet eos quam eum?",
+        "foto": "Arwen.jpg"
+    },
+    {
+        "id": 8,
+        "jmeno": "Erin",
+        "plemeno": "Výmarský ohař",
+        "pohlavi": "fenka",
+        "vek": "4 roky",
+        "vaha": "30 kg",
+        "povaha": "Aktivní, hravá, spolehlivá",
+        "pro": "Aktivní a fyzicky zdatné majitele, pelíšek doma i venku",
+        "pribeh": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae itaque officiis earum corrupti molestias, voluptatibus labore voluptatem veritatis! Modi illo sapiente neque eveniet tempora, eaque maxime eligendi nesciunt ullam nam sed, placeat esse reprehenderit earum explicabo quo cum voluptatibus commodi saepe nulla? Unde asperiores, optio magnam ullam veniam qui aspernatur. Quasi facere aliquid similique blanditiis corporis amet eos quam eum?",
+        "foto": "Erin.jpg"
+    }
+]

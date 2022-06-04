@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "plemeno": "Akita-inu",
+        "velikost": "pes: 64 - 70cm, fena: 58 - 64cm",
+        "hmotnost": "35 - 50kg",
+        "zemePuvodu": "Japonsko",
+        "povaha": "Vyrovnaný, věrný, učenlivý a chápavý.",
+        "popis": "Dobrý hlídač, pro zkušené a fyzicky zdatné majitele, náročný na pohyb, držení venku.",
+        "charakterChovani": "Při správné výchově a dobrém přístupu je svému pánovi i celé jeho rodině velmi oddaným a milým společníkem. K dětem je obvykle milá a přátelská, velmi ráda vybíjí svůj temperament při dětských hrách. Hodí se však spíše k odrostlejším dětem, které již dokážou pochopit a respektovat její potřeby. Hodí se na vesnici i do města. Díky své otužilosti může pobývat celoročně venku na dvorku. Sportovně založené majitele také rád neúnavně provází na pěších túrách či běžkách. Povahové rysy se dají popsat slovy jako vyrovnanost, sebevědomost, přívětivost, živost, spontánnost. Výchova by měla začít co nejdříve. Protože jde o plemeno, které se vyznačuje jistou tvrdohlavostí, musí být výchova a výcvik vedeny velmi důsledně, trpělivě a citlivě. Není vhodné používat fyzické tresty, většinou se minou účinkem. V zemi původu je stále ještě využívána k lovu. Pro svou vrozenou nedůvěru k cizím lidem je výborným hlídačem, ale nebývá agresivní bez zjevného důvodu. K ostatním psům je velmi dominantní, absolutně nerespektuje jejich soukromí a často je napadá."
+    },
+    {
+        "id": 2,
+        "plemeno": "Aljašský malamut",
+        "velikost": "pes: 63,5 cm, fena: 58,4 cm",
+        "hmotnost": "pes: 39 – 40 kg fena: 29 – 30 kg",
+        "zemePuvodu": "USA",
+        "povaha": "Laskavý, přátelský, věrný, hravý a oddaný.",
+        "popis": "Pro zkušené a fyzicky zdatné majitele, náročný na pohyb, držení venku.",
+        "charakterChovani": "Je přátelský a vyhledává častý kontakt s lidmi. Přátelsky se většinou chová i k cizím lidem. Od mládí je vhodné jej navykat na společnost jiných zvířat a dalších psů. Ve vztahu k cizím psům však někdy mohou nastat potíže, protože dominantní pes může rád vyvolávat rvačky. Pro svou přátelskou povahu je malamut ideálním společníkem dětí. K jejich divočejším hrám bývá trpělivý a tolerantní. Aljašský malamut není vhodný pro náročnější služební výcvik, měl by však zvládnout základní výcvik poslušnosti. Výcvik pro práci v zápřahu zvládnutí základních prvků poslušnosti vyžaduje, ale je vhodné jej se psem začít až ve věku okolo 12-ti měsíců, kdy je dokončen fyzický vývoj. Aljašský malamut potřebuje velmi mnoho pohybu, nejlépe v přirozeném prostředí. Majitel tohoto psa musí být sportovně založený a fyzicky zdatný. Je výborným společníkem při jízdě na kole nebo při joggingu. Vhodné sporty pro toto plemen je mushing, canicross, skijöring, bikejöring, pulka, weight pooling a rád plave. Pro roli hlídače se toto plemeno příliš nehodí. Není přirozeně ostrý, vůči lidem je absolutně neagresivní a málo štěká."
+    },
+    {
+        "id": 3,
+        "plemeno": "Americká akita",
+        "velikost": "pes: 66 - 71 cm, fena: 61 - 66 cm",
+        "hmotnost": "32 - 59kg",
+        "zemePuvodu": "Japonsko / USA",
+        "povaha": "Přátelský, ostražitý, vnímavý, důstojný, učenlivý a odvážný pes.",
+        "popis": "Dobrý hlídač, pro zkušené a fyzicky zdatné majitele, náročný na pohyb, držení venku.",
+        "charakterChovani": "Velký japonský pes je důstojný, odvážný, inteligentní, přátelský, věrný a oddaný své rodině, ostražitý a rezervovaný vůči cizím. Je schopný se adaptovat na mnoho různých situací, může být vynikajícím hlídacím psem, typické je,že neštěká zbytečně, pokud k tomu nemá vážný důvod, jako společenské plemeno je i vhodným rodinným psem. Vzhledem k odvážné a dominantní povaze a značné odolnosti vůči bolesti pro něj není vhodný výcvik donucovacími metodami, ani hrubým zacházením. Pro úspěšný výcvik je lépe použít motivační metody, v přístupu ke psu pak trpělivost a vlídnost, ale na druhé straně důslednost a rozhodnost. Dospělí jedinci mohou být agresivní vůči ostatním psům, zejména stejného pohlaví. Velmi vhodná je socializace s jinými psy již od štěněte. Rovněž lovecký pud některých psů je vyvinut, je vhodné psa zvykat od štěnětena zvířata. Není určen k celodennímu pobytu v uzavřeném kotci nebo na řetěze. Při správném zacházení se z velkého japonského psa stane oddaný přítel, milý společník, ale i nesmlouvavý ochránce."
+    },
+    {
+        "id": 4,
+        "plemeno": "Bílý švýcarský ovčák",
+        "velikost": "pes: 60 - 66 cm, fena: 55 - 61 cm",
+        "hmotnost": "pes: ca. 30 - 40 kg, fena: ca. 25 - 35 kg",
+        "zemePuvodu": "Švýcarsko / USA / Kanada",
+        "povaha": "Vyrovnaný, pevných nervů, sebevědomý, zcela dobromyslný, ale pozorný a ovladatelný.",
+        "popis": "Dobrý hlídač, pro začátečníky, náročný na pohyb, držení venku",
+        "charakterChovani": "Bílý ovčák je jemný, citlivý, klidný, rozvážný. Je i temperamentní, živý, vychytralý, odvážný a díky své vysoké inteligenci velmi učenlivý a snadno ovladatelný. Nesmí být agresivní. Dominance je u něj výjimečný jev. Psychicky dospívá podstatně později než například německý ovčák - tedy až po 2. roce. Do té doby má většinou nižší sebevědomí, než jiná plemena a také se brzy psychicky unaví. Je to velmi různorodé plemeno - vyskytují se mezi nimi velmi sebevědomí, ale i bázlivější psi, hodně živí i velmi klidní nebo snadno cvičitelní,.Je to skvělý rodinný pes. Ke své rodině a pánovi velmi přilne, je k ní velmi přátelský a vlídný. Známé toleruje a k cizím osobám je rezervovaný až nedůvěřivý. Při včasné a správné výchově se k domácím zvířatům chová velmi tolerantně. Cizí psy nenapadá, ale záleží v jaké situaci se zrovna nachází. K domácím dětem je velmi kamarádský, ohleduplný a většinou je ochotný je i poslouchat. Děti se však musí k němu slušně chovat. K cizím dětem může být nedůvěřivý - takže je nutný dozor dospělé osoby."
+    },
+    {
+        "id": 5,
+        "plemeno": "Československý vlčák",
+        "velikost": "pes: nejméně 65 cm, fena: nejméně 60 cm",
+        "hmotnost": "pes: nejméně 26 kg, fena: nejméně 20 kg",
+        "zemePuvodu": "Československo",
+        "povaha": "Temperamentní, velmi aktivní, vytrvalý, učenlivý, rychle reagující, neohrožený a odvážný.",
+        "popis": "Pro zkušené a fyzicky zdatné majitele, náročný na pohyb, držení venku.",
+        "charakterChovani": "Československý vlčák je dnes plemenem všestranně upotřebitelným, plně cvičitelným, i když má svá povahová specifika. Je vysoce inteligentní, samostatný a rozhodně se s ním nikdo nebude nudit. Při cílevědomém, cíleném – zároveň však velmi citlivém a inteligentním výcviku, lze s těmito psy uspět i na poli sportovní kynologie. ČSV je velmi odolný vůči povětrnostním vlivům a celoroční umístění venku snáší jedinci tohoto plemene výborně.Do malých městských bytů se příliš nehodí. Je náročný na pohyb. Trénovaní zdraví jedinci uběhnou vzdálenost 100 km průměrnou rychlostí 11 – 13 km za hodinu a jejich síly se po náročném fyzickém výkonu obdivuhodně regenerují. Typickým pohybem je nízký ale velmi prostorný klus."
+    },
+    {
+        "id": 6,
+        "plemeno": "Dobrman",
+        "velikost": "pes: 68 - 72 cm, fena: 63 - 68 cm",
+        "hmotnost": "pes: 40 - 45 kg, fena: 32 - 35 kg",
+        "zemePuvodu": "Německo",
+        "povaha": "Ostražitý, nebojácný, vynikající hlídač a obranář.",
+        "popis": "Dobrý hlídač, pro zkušené a fyzicky zdatné majitele, náročný na pohyb, držení doma.",
+        "charakterChovani": "Dobrman je velmi milý a přátelský pes, který je závislý na svém pánovi, a je mu velice oddán. Nejlépe se cítí v jeho společnosti a v těsné blízkosti celé rodiny. Správně vychovaný pes vychází velmi dobře i s dětmi, při styku s malými dětmi je však nutný dohled dospělé osoby. K cizím lidem je nedůvěřivý a udržuje si odstup, má schopnost rozeznat, který návštěvník je vítaný, a který ne, nevítaného hosta neváhá napadnout a bránit tak dům i rodinu. Při setkání s jinými psy by mohly nastat problémy, protože je sebevědomý a dominantní. Výchova dobrmana musí být důsledná a citlivá. Necitelný přístup se může podepsat na jeho povaze, stane se z něj bázlivý pes, který ze strachu může kousat. Dobrman je vhodný pes i k náročnějšímu výcviku, s tím je však lépe začít, až když je pes starší, a je nutné vyvarovat se při výcviku jakéhokoli vynucování. Dobře vychovaný pes však nevyvolává konflikty ani s jinými psy, ani s ostatními zvířaty. Dobrman je pes vhodný do bytu, pro svou krátkou srst není vhodný pro chov v kotci nebo boudě. Toto plemeno vyžaduje velmi mnoho pohybu, rozhodně se nespokojí se třemi krátkými procházkami. Má velkou výdrž, a běh vedle kola nebo plavání jej udrží v dobré kondici. Hodí se také pro různé psí sporty.Dobrman byl vyšlechtěn jako strážní pes, a to se i dnes považuje za jeho hlavní poslání. Je skvělý hlídač, a je dobře využitelný pro ochranu osob a majetku, i když respekt k tomuto plemeni pramení do značné míry z jejich pověsti. Neznamená to však, že by dobrman váhal s napadením vetřelce při ochraně svého teritoria. Na vycházkách se svým psem se může cítit bezpečně jak jeho pán, tak i celá jeho rodina. Tento pes má dobré předpoklady pro různá pracovní využití, neboť je velmi inteligentní, silný a rychlý a má vynikající čich."
+    },
+    {
+        "id": 7,"plemeno": "Německý ovčák",
+        "velikost": "pes: 30 - 40 kg fena: 22 - 32 kg",
+        "hmotnost": "pes: 60 - 65 cm, fena: 55 - 60 cm",
+        "zemePuvodu": "Německo",
+        "povaha": "Vyrovnaný, pevných nervů, sebevědomý, zcela dobromyslný, ale pozorný a ovladatelný.",
+        "popis": "Dobrý hlídač, náročný na pohyb, pro fyzicky zdatné majitele, držení doma i venku.",
+        "charakterChovani": "Pevné nervy, neohroženost, ovladatelnost, bdělost, věrnost, neúplatnost, odvaha, bojovnost a tvrdost, to jsou nejvýznamnější vlastnosti německého ovčáka. Tyto vlastnosti z něho činí psa všestranně užitkového, ceněného zvlášť pro hlídání, doprovod, ochranu a strážní službu. Jeho nadání k čichovým pracem, spojené s klusáckou stavbou těla, mu umožňuje pracovat nosem u země, bez tělesné námahy, klidně a jistě vypracovat stopu. Činí ho vysoce způsobilým ke stopování. Je temperamentní, snadno ovladatelný, vyrovnaný, nenáročný a přizpůsobivý, snášenlivý k dětem i domácím zvířatům. Plemeno vyžaduje mnoho pohybu. Poslední dobou platí toto plemeno tvrdou daň za módní trend přehnaného zauhlení zadních končetin a velké procento populace trpí displasií kyčelního kloubu."
+    },
+    {
+        "id": 8,
+        "plemeno": "Sibiřský husky",
+        "velikost": "pes: 53,5 - 60 cm, fena: 50,5 - 56 cm",
+        "hmotnost": "pes: 20,5 - 28 kg, fena: 15,5 - 23 kg",
+        "zemePuvodu": "USA",
+        "povaha": "Přátelská s živým temperamentem. Nikdy není agresivní vůči lidem.",
+        "popis": "Pro zkušené a fyzicky zdatné majitele, náročný na pohyb, držení venku.",
+        "charakterChovani": "Kdo chce chovat sibiřské hasky musí se svým životním stylem tomuto plemeni přizpůsobit. Toto plemeno vyžaduje dostatek každodenního zaměstnání a pohybu. Je to saňový pes pro přepravu lehčích nákladů na větší vzdálenosti. Nyní je nejvíce využíván na závodech psích spřežení typu sprint. S jedním psem můžete provozovat pulling – soutěž v tahu břemene, canicross, bikejöring, dog-trekking, skijöring a pulku. Lze ho využít i pro agility, nošení břemen a také v canisterapii Vzhledem k rychlému vývoji je potřeba začít s důslednou výchovou již v ranném věku štěněte. Po splnění těchto podmínek se stává výborným společníkem a rodinným psem. K dětem se chová sibiřský hasky jako ke svým kamarádům, nikdy je nenapadá. Ač jsou známy případy, že je sibiřský hasky chován bez problémů v bytě, je vhodné pro toto plemeno zřídit prostorný a pevný kotec. Bouda nemusí být zateplená Po přechodnou dobu je možné psa umístit na tzv. stake-out, což je asi 2 metry dlouhý řetěz otočně upevněný na silném ocelovém kolíku. Tohoto způsobu se používá na závodech nebo při odpočinku na toulkách přírodou. Sibiřský hasky aktivní plemeno a v případě nedostatku vyžití si hledá vlastní vybití energie. Pro roli hlídače se toto plemeno příliš nehodí. Není přirozeně ostrý, vůči lidem je absolutně neagresivní a málo štěká."
+    },
+    {
+        "id": 9,
+        "plemeno": "Výmarský ohař",
+        "velikost": "pes: 59 až 70 cm, fena: 57 až 65 cm",
+        "hmotnost": "x",
+        "zemePuvodu": "Německo",
+        "povaha": "Všestranný, lehce ovladatelný, povahově pevný a náruživý lovecky upotřebitelný pes se systematickým a vytrvalým hledáním, nikoliv však nadměrného temperamentu. Nos pozoruhodné kvality. Ostrý na škodnou a dravou zvěř; také ostražitý, ale nikdy agresivní. Spolehlivý ve vystavování a v práci ve vodě.",
+        "popis": "Náročný na pohyb, pro fyzicky zdatné majitele, držení doma i venku.",
+        "charakterChovani": "Jako snad jediný lovecký pes se výmarský ohař podroboval za účelem nabytí způsobilosti k chovu zkoušky ostrosti na člověka. Chtěl být hned od počátku nejen psem loveckým, nýbrž také dobrým, nebojácným obranářem. Výmarský ohař je velmi přátelský, dobře cvičitelný, v lovecké praxi považovaný za dostatečně ostrého a vynikajícího, vytrvalého stopaře."
+    }
+]

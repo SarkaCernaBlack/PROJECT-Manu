@@ -1,0 +1,32 @@
+---
+pagination:
+  data: pejsci
+  size: 1
+  alias: pejsek
+permalink: "pejsci/{{ pejsek.jmeno | slug }}/"
+layout: layouts/main-template
+---
+
+<article class="dog-detail">
+    <h1 class="dog-detail__name">{{ pejsek.jmeno }}</h1>
+
+    <div class="dog-detail__description">
+        <img class="dog-detail__image" src="/images/{{ pejsek.foto }}" alt="{{ pejsek.jmeno }}">
+
+        <div class="dog-detail__content">
+            <div class="dog-detail__head">
+                <p><strong>Plemeno:</strong> {{ pejsek.plemeno }}</p>
+                <p><strong>Pohlaví:</strong> {{ pejsek.pohlavi }}</p>
+                <p><strong>Věk:</strong> {{ pejsek.vek }}</p>
+                <p><strong>Váha:</strong> {{ pejsek.vaha }}</p>
+                <p><strong>Povaha:</strong> {{ pejsek.povaha }}</p>
+                <p><strong>Určeno pro:</strong> {{ pejsek.pro }}</p>
+            </div>
+
+            <div class="dog-detail__text">
+                <p>{{ pejsek.pribeh }}</p>
+            </div>
+        </div>
+    </div>  
+
+</article>

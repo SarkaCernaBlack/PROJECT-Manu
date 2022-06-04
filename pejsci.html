@@ -1,0 +1,21 @@
+---
+layout: layouts/main-template.njk
+title: Pejsci k adopci
+---
+<h1>Pejsci k adopci</h1>
+
+<p>Vyberte si nového člena rodiny z našeho útulku:</p>
+
+<div class="dogs">
+    {% for pejsek in pejsci %}
+        <div class="dog">
+            <img class="dog__foto" src="/images/{{ pejsek.foto }}" alt="{{ pejsek.jmeno }}">
+            <div class="dog__content">
+                <h2>{{ pejsek.jmeno }}</h2>
+                <h3>{{ pejsek.plemeno }}</h3>
+                <h4>{{ pejsek.pohlavi }}, {{ pejsek.vek }}</h4>
+                <p><a href="/pejsci/{{ pejsek.jmeno | slug }}/">Více informací</a></p>
+            </div>
+        </div>
+    {% endfor %}
+</div>
